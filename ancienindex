@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Accueil - News & Tech</title>
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+<body>
+	<!-- Ceci est un titre il vont de h1 à h6 -->
+	<h1>Hello World</h1>
+	<!-- Ceci est une balise dde paragraphe -->
+	<p>J'aime les frites.</p>
+	<!-- Ceci est une div avec une class -->
+	<div class="Bonjour"></div>
+	<!-- Ceci est une div avec une id -->
+	<div id="Bonjour"></div>
+</body>
+</html>
